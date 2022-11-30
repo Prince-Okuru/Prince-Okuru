@@ -1,6 +1,7 @@
-[Snapchat-1093137235](https://user
--images.githubusercontent.com/110991449/204782166-ec64c09f-0aaa-48f5-a3fe-c4a50ecfa4fa.
-jpg)
+![Snapchat-1093137235](https://user-images.githubusercontent.com/110991449/204783783-0be20102-b0e5-4b9e-9b25-8a1e4569863f.jpg)
+
+
+
 - 👋 Hi, I’m @Prince-Okuru
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Software Development at ALX Africa
