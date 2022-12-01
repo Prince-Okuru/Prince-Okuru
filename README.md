@@ -1,7 +1,7 @@
 ![Snapchat-1093137235](https://user-images.githubusercontent.com/110991449/204783783-0be20102-b0e5-4b9e-9b25-8a1e4569863f.jpg)
 
 
-h1 align="center">Hi 👋, I'm Prince Okuru</h1>
+<h1 align="center">Hi 👋, I'm Prince Okuru</h1>
 
 <h3 align="center">A passionate Software Engineer.</h3>
 
@@ -15,7 +15,7 @@ h1 align="center">Hi 👋, I'm Prince Okuru</h1>
 
 <h3 align="left">Connect with me:</h3>
 
-a href="https://twitter.com/okuru_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dani6ixsuccess6" height="30" width="40" /></a>
+<a href="https://twitter.com/okuru_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dani6ixsuccess6" height="30" width="40" /></a>
 
 <a href="http://www.instagram.com/mrinfluential_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
