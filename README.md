@@ -1,9 +1,17 @@
-![Snapchat-1093137235](https://user-images.githubusercontent.com/110991449/204783783-0be20102-b0e5-4b9e-9b25-8a1e4569863f.jpg)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="300"/>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="500"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Prince Okuru</h1>
 
-<h3 align="center">A passionate Software Engineer.</h3>
+<h3 align="center">A passionate Software Engineer.
+
+</h3>
+ <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="30px"/>
 
 - 🌍  Proudly **Nigerian**🇳🇬
 
@@ -13,18 +21,18 @@
 
 - 📫 How to reach me **okuruprince1@gmail.com**
 
+-------------------------
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://twitter.com/okuru_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dani6ixsuccess6" height="30" width="40" /></a>
 
 <a href="http://www.instagram.com/mrinfluential_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
-<p align="left"> <a href="https://www.github.com/Prince-Okuru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/Prince-Okuru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
 <a href="https://www.linkedin.com/in/chidozie-okuru-9a391122a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julius (sucessful) daniel" height="30" width="40" /></a>
 
-<a
-href="https://www.youtube.com/@mrinfluential_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/@mrinfluential_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 
 </p>
 
@@ -37,8 +45,28 @@ src="https://img.shields.io/github/followers/Prince-Okuru?logo=github&style=for-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techbydami" alt="techbydami" /></a> </p>
 
+--------------------------------------------------------------------------------------------------
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" **alt="VueJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+</div>
 
+### :fire: Badges
 
+### Support Me
+
+<a href="https://www.buymeacoffee.com/Prince-Okuru"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
