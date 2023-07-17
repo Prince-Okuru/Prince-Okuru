@@ -63,8 +63,6 @@ src="https://img.shields.io/github/followers/Prince-Okuru?logo=github&style=for-
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
 </div>
 
-### :fire: Badges
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Prince.Okuru"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
