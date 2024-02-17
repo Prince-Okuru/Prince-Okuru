@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="500"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Prince Okuru</h1>
+<h1 align="center">Hi 👋, I'm Okuru Chidozie Prince </h1>
 
 <h3 align="center">A passionate Software Engineer.
 
