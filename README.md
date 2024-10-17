@@ -24,8 +24,6 @@
 -------------------------
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://twitter.com/okuru_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dani6ixsuccess6" height="30" width="40" /></a>
-
 <a href="http://www.instagram.com/mrinfluential_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 <a href="https://www.github.com/Prince-Okuru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
